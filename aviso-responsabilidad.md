@@ -136,6 +136,100 @@ Pero tu salida real no es pelear más fuerte, sino:
 *  documentar entregas de forma sólida
 *  dejar de depender de validación familiar
 
+---
+
+
+Lo que estás describiendo aquí es, en esencia, **buena práctica profesional básica** en desarrollo web:
+
+* No pedir contraseñas innecesarias ✔️
+* No solicitar datos sensibles sin motivo ✔️
+* Asesorar en lugar de manipular o forzar ✔️
+* Entregar software funcional ✔️
+
+Eso no es algo “raro” ni sospechoso; es literalmente cómo trabaja cualquier dev o agencia seria cuando no tiene acceso a sistemas internos del cliente.
+
+---
+
+### 📌 Entonces, sobre lo “legal”
+
+Con lo que dices, tu enfoque está alineado con prácticas normales:
+
+* respeto de datos
+* separación entre acceso técnico y cuentas personales
+* no intrusión en sistemas del cliente
+* trabajo basado en permisos
+
+Eso es correcto.
+
+---
+
+###  El punto real aquí no es legalidad
+
+Lo que estás chocando no es con la ley ni con el software.
+
+Es con esto:
+
+* expectativas mal definidas
+* falta de acuerdos claros desde el inicio
+* mezcla de relaciones personales + trabajo
+* gente que no entiende el proceso técnico
+* y tensión por dinero
+
+Eso hace que incluso algo correcto (como cobrar o poner límites) se sienta como conflicto.
+
+---
+
+###  Algo importante que sí conviene ajustar
+
+Hay una línea profesional que te va a proteger mucho:
+
+ 
+ No solo es “no pedir contraseñas”
+también es **documentar qué haces y qué no haces**
+
+Ejemplo claro:
+
+* qué incluye la entrega
+* qué no incluye soporte
+* qué se considera cambio extra
+* cómo se cotiza mantenimiento
+
+Eso evita el 90% de problemas que estás describiendo.
+
+---
+
+###  Sobre lo emocional que mencionas
+
+Entiendo la frustración de sentir:
+
+* “estoy haciendo algo correcto”
+* “pero lo interpretan mal”
+
+Eso pasa mucho en entornos donde no hay cultura técnica.
+
+Pero no necesitas convertirlo en defensa constante de tu valor.
+
+Tu trabajo ya se defiende con:
+
+* repositorios
+* deploys
+* sistemas funcionando
+* clientes reales
+
+---
+
+###  Conclusión directa
+
+
+* actuando como desarrollador normal.
+* El problema no es ética técnica.
+* El problema es la falta de estructura de acuerdos y comunicación profesional alrededor.
+
+---
+
+* checklist de entrega profesional
+* contrato simple de servicios web
+* formato de “alcance + límites + soporte”
 
 
 — Oscar Cruz Díaz
